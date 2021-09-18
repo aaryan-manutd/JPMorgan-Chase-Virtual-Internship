@@ -26,4 +26,4 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![New](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_3E8Ncst5Zq4PiGaFm_1631979703123_completion_certificate.pdf)
+![New](https://github.com/aaryan-manutd/JPMorgan-Chase-Virtual-Internship/blob/main/Certificate_of_Completion.png)
